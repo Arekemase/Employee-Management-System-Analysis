@@ -2,6 +2,8 @@
 
 A detailed SQL-based analysis of an employee management database, demonstrating advanced SQL techniques such as subqueries, window functions, and data categorization.
 
+[Download the HTML file from Google Drive](https://drive.google.com/drive/folders/1UBigpQsKTNxM_49xMaToTfHmy97511gh?usp=sharing)
+
 ## Project Description
 Analyze a relational database containing information about employees, departments, managers, salaries, and job titles. The project showcases the use of SQL to extract actionable insights, including salary trends, manager tenure, and employee rankings.
 
